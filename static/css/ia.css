@@ -1,0 +1,660 @@
+#page0 {
+  background: url("../image/ia/page0_background.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 700px;
+  background-size: cover;
+}
+
+#page0 .content {
+  width: 1494px;
+  height: 700px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page0 .font1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 28.8px;
+  color: #f49024;
+  font-weight: Bold;
+  position: absolute;
+  line-height: 43.2px;
+  width: 523.2px;
+}
+
+#page0 .font3 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16.8px;
+  color: #ffb565;
+  position: absolute;
+}
+
+#page_0 {
+  width: 1494px;
+  height: 548px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page0 img {
+  position: absolute;
+}
+
+#page_0 img {
+  position: absolute;
+}
+
+#page3 {
+  background: url("../image/ia/page3.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 390px;
+  background-size: cover;
+}
+
+#page3 .content {
+  width: 1494px;
+  height: 390px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page3 img {
+  position: absolute;
+}
+
+#page4 {
+  width: 1494px;
+  height: 573.2px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page4 img {
+  position: absolute;
+}
+
+#page41 {
+  background: url("../image/ia/page4_3.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 836px;
+  background-size: cover;
+}
+
+#page41 .content {
+  width: 1494px;
+  height: 836px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page5 {
+  background: url("../image/ia/page5.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 390px;
+  background-size: cover;
+}
+
+#page5 .content {
+  width: 1494px;
+  height: 390px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page5 img {
+  position: absolute;
+}
+
+#page6 {
+  width: 1494px;
+  height: 1240.6px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page6 img {
+  position: absolute;
+}
+
+#page7 {
+  background: url("../image/ia/page7.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 390px;
+  background-size: cover;
+}
+
+#page7 .content {
+  width: 1494px;
+  height: 390px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page8 {
+  width: 1494px;
+  height: 980px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page9 {
+  background: url("../image/ia/page9.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 390px;
+  background-size: cover;
+}
+
+#page9 .content {
+  width: 1494px;
+  height: 390px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page10 {
+  width: 1494px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page11 {
+  width: 1494px;
+  height: 526px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page12 {
+  background: url("../image/ia/page12.png") no-repeat;
+  width: 100%;
+  min-width: 1494px;
+  height: 390px;
+  background-size: cover;
+}
+
+#page12 .content {
+  width: 1494px;
+  height: 390px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page13 {
+  width: 1494px;
+  height: 737.6px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page14 {
+  width: 1494px;
+  height: 527.2px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page15 {
+  width: 1494px;
+  height: 762px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page16 {
+  width: 1494px;
+  height: 762px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page17 {
+  width: 1494px;
+  height: 1368.8px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page18 {
+  width: 1494px;
+  height: 722px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page19 {
+  width: 100%;
+  min-width: 1494px;
+  height: 730.8px;
+  background-size: cover;
+}
+
+#page19 .content {
+  width: 1494px;
+  height: 730.8px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.font000 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16.8px;
+  color: #FFB565;
+  font-weight: Bold;
+  position: absolute;
+}
+
+.font001 {
+  font-family: 'Helvetica Neue Light', sans-serif;;
+  font-size: 16.8px;
+  color: #FFFFFF;
+  position: absolute;
+  line-height: 22.4px;
+  width: 516.0px;
+  letter-spacing:0.5px
+}
+
+.font1 {
+  font-family: 'Helvetica Neue Bold', sans-serif;
+  font-size: 14.4px;
+  color: #1f1f1f;
+  position: absolute;
+}
+
+.font2 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 14.4px;
+  color: #3b3b3b;
+  position: absolute;
+}
+
+.font3 {
+  font-family: 'Helvetica Neue Bold', sans-serif;
+  font-size: 16.8px;
+  color: #1f1f1f;
+  position: absolute;
+}
+
+.font4 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16.8px;
+  color: #3b3b3b;
+  position: absolute;
+  line-height: 22.4px;
+}
+
+.font5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16.8px;
+  color: #1f1f1f;
+  font-weight: Bold;
+  position: absolute;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-size: 28.8px;
+  color: #1f1f1f;
+  font-weight: Bold;
+  position: absolute;
+}
+
+#process {
+  width: 1494px;
+  height: 728px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#process .font1 {
+  font-family: 'Helvetica Neue Bold', sans-serif;
+  font-size: 16.8px;
+  position: absolute;
+  color: #3b3b3b;
+}
+
+#process .font30 {
+  font-family: 'Helvetica Neue Bold', sans-serif;
+  font-size: 9.6px;
+  position: absolute;
+  color: #ea7e15;
+}
+
+.font111 {
+  font-size: 28.8px;
+  font-weight: Bold;
+  position: absolute;
+  color: #1f1f1f;
+}
+
+.font112 {
+  font-size: 22.4px;
+  position: absolute;
+  color: #1f1f1f;
+}
+
+.font113 {
+  font-size: 22.4px;
+  position: absolute;
+  color: #acacac;
+}
+
+#page7 img {
+  position: absolute;
+}
+
+#page8 img {
+  position: absolute;
+}
+
+#page9 img {
+  position: absolute;
+}
+
+#page10 img {
+  position: absolute;
+}
+
+#page11 img {
+  position: absolute;
+}
+
+#page12 img {
+  position: absolute;
+}
+
+#page13 img {
+  position: absolute;
+}
+
+#page14 img {
+  position: absolute;
+}
+
+#page15 img {
+  position: absolute;
+}
+
+#page16 img {
+  position: absolute;
+}
+
+#page17 img {
+  position: absolute;
+}
+
+#page18 img {
+  position: absolute;
+}
+
+#page19 img {
+  position: absolute;
+}
+
+#process img {
+  position:absolute;
+}
+
+canvas {
+  display: block;
+  margin-top: 50px;
+}
+
+@media all and (max-width: 1050px) {
+  canvas {
+    margin-top: 100px;
+  }
+}
+
+.intro {
+  display: flex;
+  justify-content: flex-end;
+  flex-flow: column wrap;
+  list-style: none;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.intro p {
+  color: #4c4c4c;
+}
+
+.intro .description {
+  font-size: 20px;
+  width: 650px;
+  text-align: justify;
+  letter-spacing: 1px;
+  margin-top: 0;
+}
+
+@media all and (max-width: 700px) {
+  .intro .description {
+    width: 400px;
+  }
+}
+
+
+.carousel {
+  position: relative;
+}
+
+.carousel.pointer-event {
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel-inner::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.carousel-item {
+  position: relative;
+  display: none;
+  float: left;
+  width: 100%;
+  margin-right: -100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transition: -webkit-transform 0.6s ease-in-out;
+  transition: transform 0.6s ease-in-out;
+  transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-item {
+    transition: none;
+  }
+}
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: block;
+}
+
+.active.carousel-item-right,
+.carousel-item-next:not(.carousel-item-left) {
+  -webkit-transform: translateX(100%);
+  transform: translateX(100%);
+}
+
+.active.carousel-item-left,
+.carousel-item-prev:not(.carousel-item-right) {
+  -webkit-transform: translateX(-100%);
+  transform: translateX(-100%);
+}
+
+.carousel-fade .carousel-item {
+  opacity: 0;
+  transition-property: opacity;
+  -webkit-transform: none;
+  transform: none;
+}
+
+.carousel-fade .carousel-item-next.carousel-item-left,
+.carousel-fade .carousel-item-prev.carousel-item-right,
+.carousel-fade .carousel-item.active {
+  z-index: 1;
+  opacity: 1;
+}
+
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0s 0.6s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-fade .active.carousel-item-left,
+  .carousel-fade .active.carousel-item-right {
+    transition: none;
+  }
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  width: 15%;
+  color: #fff;
+  text-align: center;
+  opacity: 0.5;
+  transition: opacity 0.15s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-control-next,
+  .carousel-control-prev {
+    transition: none;
+  }
+}
+
+.carousel-control-next:focus,
+.carousel-control-next:hover,
+.carousel-control-prev:focus,
+.carousel-control-prev:hover {
+  color: #fff;
+  text-decoration: none;
+  outline: 0;
+  opacity: 0.9;
+}
+
+.carousel-control-prev {
+  left: 0;
+}
+
+.carousel-control-next {
+  right: 0;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: no-repeat 50%/100% 100%;
+}
+
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 15;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+}
+
+.carousel-indicators li {
+  box-sizing: content-box;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-indicators li {
+    transition: none;
+  }
+}
+
+.carousel-indicators .active {
+  opacity: 1;
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+
+#page_pre {
+  width: 1494px;
+  height: 854.8px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page_pre img{
+  position: absolute;
+}
+
+#page_pre .font1 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16.8px;
+  position: absolute;
+  color: #3B3B3B;
+  line-height: 22.4px;
+  width: 546.8px;
+}
