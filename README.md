@@ -1,1 +1,1 @@
-# LynnZhangDesign.github.io
+# info-tech-assignment
