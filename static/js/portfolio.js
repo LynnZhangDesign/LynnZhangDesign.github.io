@@ -6,7 +6,7 @@ $(function () {
                 if ($(moos_cover).is(':hover')) {
                     let l1 = document.getElementById("moos_highlight")
                     $(l1).animate({
-                        width: "239px"
+                        width: "395px"
                     }, 500);
                     moos_cover.style.transform = "scale(1.2)";
                 }
@@ -31,7 +31,7 @@ $(function () {
                 if ($(moos_font).is(':hover')) {
                     let l1 = document.getElementById("moos_highlight")
                     $(l1).animate({
-                        width: "239px"
+                        width: "395px"
                     }, 500);
                     moos_cover.style.transform = "scale(1.2)";
                 }
@@ -57,7 +57,7 @@ $(function () {
                 if ($(med_cover).is(':hover')) {
                     let l1 = document.getElementById("med_highlight")
                     $(l1).animate({
-                        width: "418px"
+                        width: "306px"
                     }, 500);
                     med_cover.style.transform = "scale(1.2)";
                 }
@@ -82,7 +82,7 @@ $(function () {
                 if ($(med_font).is(':hover')) {
                     let l1 = document.getElementById("med_highlight")
                     $(l1).animate({
-                        width: "418px"
+                        width: "306px"
                     }, 500);
                     med_cover.style.transform = "scale(1.2)";
                 }
@@ -96,6 +96,57 @@ $(function () {
                 width: "0px"
             }, 500);
             med_cover.style.transform = "scale(1)";
+        },
+    });
+});
+
+let ali_cover = document.getElementById("ali_cover")
+$(function () {
+    $(ali_cover).on({
+        mouseover: function () {
+            setTimeout(() => {
+                if ($(ali_cover).is(':hover')) {
+                    let l1 = document.getElementById("ali_highlight")
+                    $(l1).animate({
+                        width: "374px"
+                    }, 500);
+                    ali_cover.style.transform = "scale(1.2)";
+                }
+            }, 500);
+        },
+    });
+    $(ali_cover).on({
+        mouseout: function () {
+            let l1 = document.getElementById("ali_highlight")
+            $(l1).animate({
+                width: "0px"
+            }, 500);
+            ali_cover.style.transform = "scale(1)";
+        },
+    });
+});
+let ali_font = document.getElementById("ali_font")
+$(function () {
+    $(ali_font).on({
+        mouseover: function () {
+            setTimeout(() => {
+                if ($(ali_font).is(':hover')) {
+                    let l1 = document.getElementById("ali_highlight")
+                    $(l1).animate({
+                        width: "374px"
+                    }, 500);
+                    ali_cover.style.transform = "scale(1.2)";
+                }
+            }, 500);
+        },
+    });
+    $(ali_font).on({
+        mouseout: function () {
+            let l1 = document.getElementById("ali_highlight")
+            $(l1).animate({
+                width: "0px"
+            }, 500);
+            ali_cover.style.transform = "scale(1)";
         },
     });
 });
@@ -159,7 +210,7 @@ $(function () {
                 if ($(fireworks_cover).is(':hover')) {
                     let l1 = document.getElementById("fireworks_highlight")
                     $(l1).animate({
-                        width: "529.6px"
+                        width: "333.6px"
                     }, 500);
                     fireworks_cover.style.transform = "scale(1.2)";
                 }
@@ -184,7 +235,7 @@ $(function () {
                 if ($(fireworks_font).is(':hover')) {
                     let l1 = document.getElementById("fireworks_highlight")
                     $(l1).animate({
-                        width: "529.6px"
+                        width: "333.6px"
                     }, 500);
                     fireworks_cover.style.transform = "scale(1.2)";
                 }
@@ -261,7 +312,7 @@ $(function () {
                 if ($(iwen_cover).is(':hover')) {
                     let l1 = document.getElementById("iwen_highlight")
                     $(l1).animate({
-                        width: "186.1px"
+                        width: "352px"
                     }, 500);
                     iwen_cover.style.transform = "scale(1.2)";
                 }
@@ -286,7 +337,7 @@ $(function () {
                 if ($(iwen_font).is(':hover')) {
                     let l1 = document.getElementById("iwen_highlight")
                     $(l1).animate({
-                        width: "186.1px"
+                        width: "352px"
                     }, 500);
                     iwen_cover.style.transform = "scale(1.2)";
                 }
@@ -312,7 +363,7 @@ $(function () {
                 if ($(ia_cover).is(':hover')) {
                     let l1 = document.getElementById("ia_highlight")
                     $(l1).animate({
-                        width: "540.0px"
+                        width: "486.0px"
                     }, 500);
                     ia_cover.style.transform = "scale(1.13)";
                 }
@@ -337,7 +388,7 @@ $(function () {
                 if ($(ia_font).is(':hover')) {
                     let l1 = document.getElementById("ia_highlight")
                     $(l1).animate({
-                        width: "540.0px"
+                        width: "486.0px"
                     }, 500);
                     ia_cover.style.transform = "scale(1.13)";
                 }
