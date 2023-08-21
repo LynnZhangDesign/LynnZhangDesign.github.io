@@ -1,0 +1,270 @@
+#page0 {
+  width: 100%;
+  min-width: 1494px;
+  height: 212.4px;
+  background-size: cover;
+}
+
+#page0 .content {
+  width: 1494px;
+  height: 212.4px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page0 .font1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 72px;
+  color: #1f1f1f;
+  font-weight: 500;
+  position: absolute;
+  line-height: 96.5px;
+  letter-spacing: 1.4px;
+}
+
+#page0 .font2 {
+  font-family: "Helvetica Neue Bold", sans-serif;
+  font-size: 28.8px;
+  color: #1f1f1f;
+  position: absolute;
+}
+
+#page0 .font3 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #1f1f1f;
+  position: absolute;
+}
+
+#page1 {
+  background: rgb(172, 172, 172, 0.1);
+  width: 100%;
+  min-width: 1494px;
+  height: 423.6px;
+  background-size: cover;
+}
+
+#page1 .content {
+  width: 1494px;
+  height: 423.6px;
+  margin: 0 auto;
+  position: relative;
+}
+
+#page2 {
+  width: 100%;
+  min-width: 1494px;
+  height: 1091.6px;
+  background-size: cover;
+}
+
+#page2 .content {
+  width: 1494px;
+  height: 1091.6px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.font1 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #1f1f1f;
+  position: absolute;
+  line-height: 16.4px;
+}
+
+.font23 {
+  font-family: "Helvetica Neue Bold", sans-serif;
+  font-size: 21.6px;
+  color: #ffba00;
+  position: absolute;
+  line-height: 27.2px;
+}
+
+.font91 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #929292;
+  position: absolute;
+  line-height: 27.2px;
+  width: 355.2px;
+  text-align: center;letter-spacing: 0.3px;
+}
+
+.font92 {
+    font-family: "Poppins", sans-serif;
+    font-size: 21.6px;
+    color: #4A4A4A;
+    font-weight: 500;
+    position: absolute;
+    letter-spacing: 0.5px;
+}
+
+.font93 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 16.8px;
+    color: #4A4A4A;
+    position: absolute;
+    line-height: 22.4px;
+    width: 476.0px;
+    letter-spacing: 0.4px;
+  }
+
+.font94 {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 16.8px;
+    color: #3B3B3B;
+    position: absolute;
+    line-height: 22.4px;
+    width: 862.4px;
+    letter-spacing: 0.4px;
+  }
+
+  .font95 {
+    font-family: "Poppins", sans-serif;
+    font-size: 28.8px;
+    color: #FE5900;
+    position: absolute;
+    font-weight: 500;
+    letter-spacing: 0.6px;
+  }
+
+.font24 {
+  font-family: "Poppins", sans-serif;
+  font-size: 28.8px;
+  color: #fe5900;
+  position: absolute;
+  line-height: 48px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+}
+
+.font25 {
+  font-family: "Helvetica Neue Bold", sans-serif;
+  font-size: 16.8px;
+  color: #ffdb21;
+  position: absolute;
+}
+
+.font2 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #1f1f1f;
+  position: absolute;
+}
+
+.font3 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #3b3b3b;
+  position: absolute;
+  line-height: 20px;
+  text-align: justify !important;
+}
+
+.font399 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #3b3b3b;
+  position: absolute;
+  line-height: 20px;
+}
+
+.font4 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #5d5d5d;
+  position: absolute;
+  line-height: 16.4px;
+  text-align: justify !important;
+}
+
+.font5 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #05ceb8;
+  position: absolute;
+  font-weight: 540;
+}
+
+.font6 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #3b3b3b;
+  position: absolute;
+}
+
+.font7 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #3b3b3b;
+  position: absolute;
+  font-style: italic;
+  line-height: 16.8px;
+}
+
+.font8 {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-size: 16.8px;
+  color: #1f1f1f;
+  position: absolute;
+  line-height: 20px;
+  text-align: justify !important;
+}
+
+.font9 {
+  font-family: "Helvetica Neue Light", sans-serif;
+  font-size: 14.4px;
+  color: #3b3b3b;
+  position: absolute;
+  line-height: 16.8px;
+  text-align: justify !important;
+}
+
+.font10 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 14.4px;
+  color: #5d5d5d;
+  position: absolute;
+  line-height: 17.6px;
+}
+
+.font11 {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16.8px;
+  color: #5d5d5d;
+  position: absolute;
+  line-height: 20px;
+  text-align: justify !important;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-size: 28.8px;
+  color: #1f1f1f;
+  font-weight: Bold;
+  position: absolute;
+}
+
+img {
+  position: absolute;
+}
+
+.font111 {
+  font-size: 28.8px;
+  font-weight: Bold;
+  position: absolute;
+  color: #1f1f1f;
+}
+
+.font112 {
+  font-size: 22.4px;
+  position: absolute;
+  color: #1f1f1f;
+}
+
+.font113 {
+  font-size: 22.4px;
+  position: absolute;
+  color: #acacac;
+}
