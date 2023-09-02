@@ -1,10 +1,10 @@
 #page0 {
-  background: linear-gradient(
+  /* background: linear-gradient(
       127deg,
       rgba(254, 159, 108, 0.6),
       rgba(255, 198, 69, 0.6)
     )
-    no-repeat;
+    no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 700px;
@@ -410,7 +410,7 @@ img {
 
 
 #role {
-  background: url("../image/hive/pre_back.png") no-repeat;
+  /* background: url("../image/hive/pre_back.png") no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 594.0px;
