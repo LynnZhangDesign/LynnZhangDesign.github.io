@@ -1,11 +1,11 @@
 #page0 {
-  background: linear-gradient(
+  /* background: linear-gradient(
       301deg,
       rgba(244, 144, 36, 0.6),
       rgba(247, 199, 152, 0.6),
       rgba(255, 239, 155, 0.6)
     )
-    no-repeat;
+    no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 700px;
@@ -20,7 +20,7 @@
 }
 
 #page231 {
-  background: url("../image/ia/back_project.png") no-repeat;
+  /* background: url("../image/ia/back_project.png") no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 594.0px;
