@@ -1,11 +1,11 @@
 #page0 {
-    background: linear-gradient(
+    /* background: linear-gradient(
         320deg,
         rgba(37,67,112, 0.6),
         rgba(99,160,250, 0.6),
         rgba(209,228,255, 0.6)
       )
-      no-repeat;
+      no-repeat; */
     width: 100%;
     min-width: 1494px;
     height: 700px;
@@ -511,7 +511,7 @@
   }
   
   #role {
-    background: url("../image/medscape/pre_back.png") no-repeat;
+    /* background: url("../image/medscape/pre_back.png") no-repeat; */
     width: 100%;
     min-width: 1494px;
     height: 594px;
