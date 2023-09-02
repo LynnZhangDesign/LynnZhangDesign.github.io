@@ -1,20 +1,20 @@
 #page0 {
-  background: linear-gradient(
+  /* background: linear-gradient(
       138deg,
       rgba(184, 115, 253, 0.4),
       rgba(107, 129, 253, 0.4),
       rgba(152, 107, 253, 0.4)
     )
-    no-repeat;
+    no-repeat; */
   width: 100%;
   min-width: 1494px;
-  height: 700px;
+  height: 730px;
   background-size: cover;
 }
 
 #page0 .content {
   width: 1494px;
-  height: 700px;
+  height: 730px;
   margin: 0 auto;
   position: relative;
 }
@@ -827,7 +827,7 @@
 }
 
 #role {
-  background: url("../image/iwen/bbback.png") no-repeat;
+  /* background: url("../image/iwen/bbback.png") no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 594.0px;
