@@ -1,11 +1,11 @@
 #page0 {
-  background: linear-gradient(
+  /* background: linear-gradient(
       138deg,
       rgba(144, 232, 192, 0.36),
       rgba(144, 232, 192, 0.48),
       rgba(79, 213, 198, 0.6)
     )
-    no-repeat;
+    no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 700px;
@@ -517,7 +517,7 @@ img {
 }
 
 #role {
-  background: url("../image/moos/pre_back.png") no-repeat;
+  /* background: url("../image/moos/pre_back.png") no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 594px;
