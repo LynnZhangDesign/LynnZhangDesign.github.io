@@ -1,11 +1,11 @@
 #page0 {
-  background: linear-gradient(
+  /* background: linear-gradient(
       127deg,
       rgba(140, 117, 235, 0.5),
       rgba(79, 82, 204, 0.5),
       rgba(140, 117, 235, 0.5)
     )
-    no-repeat;
+    no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 700px;
@@ -747,7 +747,7 @@ img {
 
 
 #role {
-  background: url("../image/fireworks/pre_back.png") no-repeat;
+  /* background: url("../image/fireworks/pre_back.png") no-repeat; */
   width: 100%;
   min-width: 1494px;
   height: 594.0px;
