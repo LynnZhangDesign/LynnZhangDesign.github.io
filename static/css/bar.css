@@ -65,7 +65,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  mask: radial-gradient(transparent 50px, #000 50px);
+  /* mask: radial-gradient(transparent 50px, #000 50px); */
 }
 .container .slider-button:after {
   content: "";
